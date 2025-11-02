@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+  <p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
 
 
