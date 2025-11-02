@@ -1,43 +1,67 @@
 # 👋 Hi, I'm Abarnasri Prabakaran  
 🚀 Frontend Developer | React.js | Node.js | MongoDB | JavaScript Enthusiast  
 
-I'm a passionate **Full Stack Developer** from Tamil Nadu who loves building clean, responsive, and user-friendly web apps.  
-Currently, I'm improving my **React.js and Node.js** skills and working on AI-integrated web projects.  
+I'm a passionate **Frontend Developer** from Tamil Nadu 🇮🇳 who loves creating modern, responsive, and user-friendly web apps.  
+Currently, I’m learning advanced **React.js and Node.js** concepts to become a full-stack developer.  
 
 ---
 
-### 🌟 **What I Do**
-- ⚛️ Build dynamic user interfaces using **React.js, Redux, and Context API**  
-- 🌐 Develop full-stack applications using **Node.js, Express, and MongoDB Atlas**  
-- 💡 Create responsive UIs using **Tailwind CSS & Bootstrap**  
-- 🔐 Implement **JWT authentication & REST API** integration  
+## 🌟 About Me
+- 🎯 Focused on **building clean UI & smooth user experiences**  
+- 💻 1+ year of experience in **React.js** and modern web technologies  
+- 🧩 Skilled in **component-based architecture** and **state management (Context API)**  
+- 🌱 Currently learning **Next.js & TypeScript**  
+- ⚡ Fun fact: I can spend hours fixing one bug and still enjoy it 😄  
 
 ---
 
-### 🧩 **Featured Projects**
-🔹 [AI Task Agent](https://github.com/abarna-RP/task-agent-frontend) — React + Node.js full-stack task management app  
-🔹 [Movie Search App](https://github.com/abarna-RP/movie-search-react) — OMDB API-based responsive movie explorer  
-🔹 [Portfolio Website](https://abarnasri-web.vercel.app) — Built with React & Tailwind CSS  
+## 🛠️ Tech Stack
+**Frontend:** React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
+**Backend:** Node.js | Express.js  
+**Database:** MongoDB | MySQL  
+**Tools:** Git | GitHub | VS Code | Postman  
+**Other Skills:** REST APIs | JWT Auth | Responsive Design  
 
 ---
 
-### 🛠️ **Tech Stack**
-React.js | Node.js | Express | MongoDB | Tailwind CSS | Bootstrap | REST API | Git | JavaScript (ES6+)  
+## 💼 Featured Projects
+
+### 🧠 [AI Task Agent](https://github.com/abarna-RP/task-agent-frontend)
+A full-stack **task management system** built with React.js and Node.js.  
+🔹 Context API for global state  
+🔹 Bootstrap for responsive UI  
+🔹 Real-time updates for tasks  
 
 ---
 
-### 🌱 **Currently Learning**
-- Next.js  
-- TypeScript  
-- API Optimization  
+### 🎬 [Movie Search App](https://github.com/abarna-RP/movie-search-react)
+Responsive movie search application using **OMDB API**.  
+🔹 Search, Filter & Add to Favorites  
+🔹 Built with React.js + Tailwind CSS  
+🔹 Deployed on **Netlify**
 
 ---
 
-### 📫 **Let’s Connect!**
+### 🌐 [Portfolio Website](https://abarnasri-web.vercel.app)
+My personal **React + Tailwind CSS portfolio** showcasing my skills & projects.  
+🔹 Dark/Light mode toggle  
+🔹 Responsive navbar & animations  
+🔹 Integrated contact form with Formspree  
+
+---
+
+## 🧰 GitHub Stats
+![Abarnasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarna-RP&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abarna-RP&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/abarnasri-dev/)  
-🌍 [Portfolio](https://abarnasri-web.vercel.app)  
-📧 abarnasri3692@gmail.com  
+🌐 [Portfolio](https://abarnasri-web.vercel.app)  
+📧 **Email:** abarnasri3692@gmail.com  
 
 ---
 
-⭐ **“Code. Learn. Build. Repeat.”**
+⭐ **"Code. Learn. Build. Repeat."**
