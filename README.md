@@ -1,7 +1,6 @@
-  <p align="center">
-  <img src="./banner.png" width="100%">
+<p align="center">
+  <img src="https://github.com/abarna-RP/abarna-RP/raw/main/banner.png" width="100%" alt="Banner">
 </p>
-
 
 
 
