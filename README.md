@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abarna-RP/abarna-RP/main/banner.png" alt="Abarnasri Banner" width="100%">
-</p>
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
 
 
 
