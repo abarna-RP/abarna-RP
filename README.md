@@ -1,4 +1,7 @@
-![Abarnasri Banner](https://raw.githubusercontent.com/abarna-RP/abarna-RP/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abarna-RP/abarna-RP/main/banner.png" alt="Abarnasri Banner" width="100%">
+</p>
+
 
 # 👋 Hi, I'm Abarnasri Prabakaran  
 🚀 Frontend Developer | React.js | Node.js | MongoDB | JavaScript Enthusiast  
@@ -16,6 +19,8 @@ Currently, I’m learning advanced **React.js and Node.js** concepts to become a
 - ⚡ Fun fact: I can spend hours fixing one bug and still enjoy it 😄  
 
 ---
+💬 Ask me about: React.js, API integration, authentication, and building scalable web apps.
+
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
@@ -67,3 +72,5 @@ My personal **React + Tailwind CSS portfolio** showcasing my skills & projects.
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
+<!-- Keywords: Full Stack Developer, React.js, Node.js, MERN Stack, Next.js, TypeScript, MongoDB, Frontend Developer, JavaScript Developer -->
+
