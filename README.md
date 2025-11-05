@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/abarna-RP/abarna-RP/main/banner.png" width="100%" alt="Banner">
-</p>
+
 
 
 
